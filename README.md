@@ -1,0 +1,2 @@
+# TestClickOnce
+TestClickOnce
