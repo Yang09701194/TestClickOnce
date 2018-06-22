@@ -13,4 +13,5 @@ TestClickOnce
   * [How to: Publish a ClickOnce Application using the Publish Wizard
 ](https://msdn.microsoft.com/en-us/library/31kztyey.aspx)
   * [Where does ClickOnce put files?](https://social.msdn.microsoft.com/Forums/en-US/c6e3d328-1deb-49c9-99cf-98fe3830702a/where-does-clickonce-put-files?forum=winformssetup)
+  * [Change installation folder for a Click Once App](https://social.msdn.microsoft.com/Forums/windows/en-US/5c7d00c2-2473-4fd5-b815-30066383eb47/change-installation-folder-for-a-click-once-app?forum=winformssetup)
   
