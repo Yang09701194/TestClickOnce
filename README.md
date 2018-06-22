@@ -10,3 +10,7 @@ TestClickOnce
   * [[.NET] 組件自動更新 使用 ClickOnce 佈署](https://dotblogs.com.tw/yc421206/archive/2012/03/02/70464.aspx)
   * [How to create a ClickOnce application | lynda.com tutorial](https://www.youtube.com/watch?v=t4BTLdIMYEY)
   * [Problem: ClickOnce Deployment via Internet May Not Always Upgrade an Application](https://www.codeproject.com/Questions/120664/My-ClickOnce-Application-Not-Updating-Why)
+  * [How to: Publish a ClickOnce Application using the Publish Wizard
+](https://msdn.microsoft.com/en-us/library/31kztyey.aspx)
+  * [Where does ClickOnce put files?](https://social.msdn.microsoft.com/Forums/en-US/c6e3d328-1deb-49c9-99cf-98fe3830702a/where-does-clickonce-put-files?forum=winformssetup)
+  
