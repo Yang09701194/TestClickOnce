@@ -7,6 +7,8 @@ Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TestSetupProject", "TestSet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWPF", "SimpleWPF\SimpleWPF.csproj", "{ECBEE27C-0C66-4B89-9210-6EB384FCBA65}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TestSetupWizard", "TestSetupWizard\TestSetupWizard.vdproj", "{29FA4C05-B5DE-4374-80BE-08B5366E2753}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,8 @@ Global
 		{ECBEE27C-0C66-4B89-9210-6EB384FCBA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECBEE27C-0C66-4B89-9210-6EB384FCBA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECBEE27C-0C66-4B89-9210-6EB384FCBA65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29FA4C05-B5DE-4374-80BE-08B5366E2753}.Debug|Any CPU.ActiveCfg = Debug
+		{29FA4C05-B5DE-4374-80BE-08B5366E2753}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
